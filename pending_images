@@ -1,8 +1,0 @@
-rancher/mirrored-coredns-coredns:1.11.1
-rancher/mirrored-coredns-coredns:1.11.3
-rancher/mirrored-coreos-etcd:v3.5.10
-rancher/mirrored-coreos-etcd:v3.5.12
-rancher/mirrored-coreos-etcd:v3.5.15
-rancher/mirrored-kube-logging-logging-operator:4.8.0
-rancher/mirrored-prometheus-adapter-prometheus-adapter:v0.12.0
-rancher/mirrored-sonobuoy-sonobuoy:v0.57.2
